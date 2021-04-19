@@ -1,0 +1,93 @@
+[
+    {
+        "q" :"who is the 13th president of India?",
+        "a":"Abdul Kalam",
+        "b":"Rajendra Prasad",
+        "c":"Pratibha patil",
+        "d":" K.R. Narayanan",
+        "answer":"Abdul Kalam"
+    
+    },
+    {
+        "q" :"who is the longest serving president of India?",
+        "a":"K.R. Narayanan",
+        "b":"Pratibha patil",
+        "c":"Rajendra Prasad",
+        "d":"A.P.J. Abdul Kalam",
+        "answer":"Rajendra Prasad"
+    
+    },
+    {
+        "q" :"Which is the largest and longest river in India?",
+        "a":"Ganga",
+        "b":"Brahmaputra",
+        "c":"Godavari",
+        "d":"Krishna",
+        "answer":"Ganga"
+    
+    },
+    {
+        "q" :"Which is the Widest river in India?",
+        "a":"Ganga",
+        "b":"Brahmaputra",
+        "c":"Krishna",
+        "d":"Godavari",
+        "answer":"Brahmaputra"
+    
+    },
+    {
+        "q" :"How many plateaus are there in India?",
+        "a":"9",
+        "b":"less than 7",
+        "c":"more than 7",
+        "d":"7",
+        "answer":"more than 7"
+    
+    },
+    {
+        "q" :"who is the father of Python Programming Language?",
+        "a":" Charles Babbage",
+        "b":" Van Rossum",
+        "c":" James Gosling",
+        "d":"Archemedes",
+        "answer":" Van Rossum"
+    
+    },
+     {
+        "q" :"who is the father of Java Programming Language?",
+        "a":" Charles Babbage",
+        "b":" Van Rossum",
+        "c":" James Gosling",
+        "d":"Archemedes",
+        "answer":" James Gosling"
+    
+    },
+    {
+        "q" :"Who is the father of Mathematics?",
+        "a":"Archimedes",
+        "b":"Ramanujan",
+        "c":"Bhaskara charya",
+        "d":"Aryabatta",
+        "answer":"Archimedes"
+    
+    },
+    {
+        "q" :"Who is the father of Indian Mathematics?",
+        "a":"Archimedes",
+        "b":"Ramanujan",
+        "c":"Bhaskara charya",
+        "d":"Aryabatta",
+        "answer":"Ramanujan"
+    
+    },
+    {
+        
+        "q" :"7+7/7+7*7-7 = ?",
+        "a":"51",
+        "b":"50",
+        "c":"48",
+        "d":"44",
+        "answer":"50"
+    
+    }
+    ]
